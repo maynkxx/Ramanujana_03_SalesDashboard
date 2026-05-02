@@ -1,5 +1,6 @@
 # Superstore Sales & Profit Analysis Dashboard
 
+live dashboard link - https://public.tableau.com/app/profile/mayank.choudhary5404/viz/sale_17774612070440/Dashboard1?publish=yes
 ## Project Overview
 This project analyzes the Global Superstore dataset to understand sales performance, profitability, and the impact of discounting strategies across different regions and product categories.
 
